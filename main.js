@@ -1,0 +1,1 @@
+const mutateVal = type => type === "up" ? document.getElementById('num').innerHTML++ : document.getElementById('num').innerHTML--;
